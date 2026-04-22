@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Web`**
 
-Me chamo Luma Geovana Araújo Oliveira, tenho 20 anos e moro em Minas Gerais. Concluí o ensino médio na Escola Estadual Santa Terezinha, onde também concluí o curso técnico em informática. Atualmente, estou buscando oportunidades na área de tecnologia e aprimorando meus conhecimentos.
+Me chamo Luma Geovana Araújo Oliveira, tenho 20 anos e sou técnica em informática. Atualmente, estou buscando oportunidades na área de tecnologia e aprimorando meus conhecimentos.
 
 <p align="left">
 <a href="https://github.com/luma-araujo?tab=repositories&sort=stargazers">
@@ -48,14 +48,6 @@ Me chamo Luma Geovana Araújo Oliveira, tenho 20 anos e moro em Minas Gerais. Co
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
 <img 
     align="left" 
@@ -111,12 +103,12 @@ Me chamo Luma Geovana Araújo Oliveira, tenho 20 anos e moro em Minas Gerais. Co
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=luma-araujo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luma-araujo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=luma-araujo&theme=tokyonight&layout=compact&langs_count=9" 
   />
 </p>
 
